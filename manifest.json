@@ -7,19 +7,19 @@
   "background_color": "#3b6acf",
   "theme_color": "#3b6acf",
   "orientation": "any",
-  "description": "Portfolio of Manthan Gaikwad - AIML Engineer",
+  "description": "Portfolio of Manthan Gaikwad",
   "icons": [
     {
-      "src": "Gemini_Generated_Image_l7zhtgl7zhtgl7zh.jpg",
-      "type": "image/jpeg",
+      "src": "icon.png",
+      "type": "image/png",
       "sizes": "192x192",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
-      "src": "Gemini_Generated_Image_l7zhtgl7zhtgl7zh.jpg",
-      "type": "image/jpeg",
+      "src": "icon.png",
+      "type": "image/png",
       "sizes": "512x512",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
