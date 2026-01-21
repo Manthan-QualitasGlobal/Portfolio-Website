@@ -1,0 +1,25 @@
+{
+  "name": "Manthan's Portfolio",
+  "short_name": "Manthan",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#3b6acf",
+  "theme_color": "#3b6acf",
+  "orientation": "any",
+  "description": "Portfolio of Manthan Gaikwad - AIML Engineer",
+  "icons": [
+    {
+      "src": "Gemini_Generated_Image_l7zhtgl7zhtgl7zh.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "Gemini_Generated_Image_l7zhtgl7zhtgl7zh.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
